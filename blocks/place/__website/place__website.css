@@ -1,0 +1,8 @@
+.place__website {
+  display: grid;
+  min-height: 46px;
+  list-style: none;
+  padding: 0;
+  align-self: end;
+  align-content: space-between;
+}
