@@ -1,0 +1,7 @@
+.header__lang-link_en:focus {
+  text-decoration: underline;
+}
+
+.header__lang-link_en:focus .header__lang-link_ru {
+  text-decoration: none;
+}

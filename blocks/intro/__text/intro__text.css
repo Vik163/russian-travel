@@ -3,5 +3,27 @@
   font-size: 16px;
   line-height: 1.63;
   font-weight: normal;
-  margin: 40px 0 28px;
+  margin: 40px 0 33px;
+}
+
+@media screen and (max-width: 780px) {
+  .intro__text {
+    width: 720px;
+    font-size: 16px;
+    line-height: 1.63;
+    font-weight: normal;
+    margin: 40px 0 32px;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .intro__text {
+    width: 288px;
+    font-size: 16px;
+    line-height: 1.63;
+    font-weight: normal;
+    margin: 40px 0 33px;
+    white-space: pre-line;
+
+  }
 }

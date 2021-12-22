@@ -1,0 +1,22 @@
+.adopt-image {
+  display: flex;
+  max-height: 460px;
+}
+
+@media screen and (max-width: 1100px) {
+  .adopt-image {
+    max-height: 440px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .adopt-image {
+    max-height: 340px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .adopt-image {
+    max-height: 320px;
+  }
+}
