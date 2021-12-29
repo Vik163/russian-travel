@@ -15,7 +15,7 @@
 }
 
 @media screen and (max-width: 500px) {
-.content__cover {
+  .content__cover {
     margin: 66px 0 64px;
   }
 }

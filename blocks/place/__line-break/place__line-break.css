@@ -1,0 +1,9 @@
+.place__line-break::after {
+  content: '\2009';
+}
+
+@media screen and (max-width: 500px) {
+  .place__line-break::after {
+    content: '\A0';
+  }
+}

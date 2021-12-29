@@ -1,9 +1,0 @@
-.place__paragraph-container_screen_mobile {
-display: none;
-}
-
-@media screen and (max-width: 500px) {
-  .place__paragraph-container_screen_mobile {
-    display: block;
-    }
-}

@@ -5,7 +5,6 @@
   line-height: 1.62;
   font-weight: normal;
   margin: 0;
-  white-space: pre-line;
 }
 
 .place__paragraph:last-child {
@@ -15,7 +14,6 @@
 .place:last-of-type .place__paragraph {
   margin: 0;
 }
-
 
 @media screen and (max-width: 928px) {
   .place__paragraph {
@@ -39,4 +37,5 @@
     margin: 0 16px;
   }
 }
+
 
