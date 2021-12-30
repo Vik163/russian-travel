@@ -2,7 +2,8 @@
   color: #aaaaaa;
   font-size: 12px;
   line-height: 12px;
+  text-transform: uppercase;
   letter-spacing: calc(1em / 5);
-  font-weight: normal;
+  font-weight: 400;
   margin: 0;
 }

@@ -17,10 +17,6 @@
     grid-template-columns: minmax(240px, 340px) minmax(252px, 352px);
     gap: 47px 28px;
   }
-
-  .place:first-of-type .place__title {
-    letter-spacing: 2px;
-  }
 }
 
 @media screen and (max-width: 760px) {
