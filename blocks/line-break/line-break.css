@@ -1,9 +1,0 @@
-.line-break::after {
-  content: '\2009';
-}
-
-@media screen and (max-width: 500px) {
-  .line-break::after {
-    content: '\A0';
-  }
-}
